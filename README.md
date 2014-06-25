@@ -1,2 +1,2 @@
-appfac
+appfactory
 ======
